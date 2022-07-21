@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stello
-- 👀 I’m interested in to work in AI company or in the blockchain
-- 🌱 I’m currently learning Python and learning never stops !
+- 👀 I’m interested in to work in a company as a Freelancer
+- 🌱 I’m currently making some sides projects and learning never stops !
 - 💞️ I’m looking to collaborate on a lot of cool things
 - 📫 How to reach me stephane@connectunivers.com or in Twitter @StelloCorp
 
