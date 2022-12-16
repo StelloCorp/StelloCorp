@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Stello
-- 👀 I’m interested in to work in a company as a Freelancer
-- 🌱 I’m currently making some sides projects and learning never stops !
-- 💞️ I’m looking to collaborate on a lot of cool things
+- ⭐ Keep learning and dreams will come true
 - 📫 How to reach me stephane@connectunivers.com or in Twitter @StelloCorp
 
 <!---
